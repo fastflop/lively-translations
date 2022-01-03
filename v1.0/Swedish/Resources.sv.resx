@@ -272,7 +272,7 @@
         <comment/>
     </data>
     <data name="TextExportWallpaperZip" xml:space="preserve">
-        <value>Exportera lively .zip</value>
+        <value>Exportera lively.zip</value>
     </data>
     <data name="TextGIF" xml:space="preserve">
         <value>Animerad GIF</value>
