@@ -176,39 +176,32 @@
         <comment/>
     </data>
     <data name="LivelyExceptionDamagedZipFile" xml:space="preserve">
-        <value>Skadad bakgrundsbild fil, prova att ladda ner filen igen.</value>
-        <comment/>
+        <value>Skadad bakgrunds fil, prova att ladda ner filen igen.</value>
     </data>
     <data name="LivelyExceptionGeneral" xml:space="preserve">
         <value>Ojsan! Ser ut som at filenhttps://github.com/rocksdanister/lively/wiki</value>
     </data>
     <data name="LivelyExceptionHighContrastMode" xml:space="preserve">
-        <value>Lively fungerar inte med Hög Kontrast läge på. Stäng i Windows inställningar och försök igen.</value>
-        <comment/>
+        <value>Lively fungerar inte med Hög Kontrast läge på. Stäng av det inställningarna och försök igen.</value>
     </data>
     <data name="LivelyExceptionMediaPlayback" xml:space="preserve">
-        <value>Media playback failed :(Try changing the videoplayer in lively settings.In order to better understand this error and fix the issue, share the log file with the developer.Instructions for sharing log file:https://github.com/rocksdanister/lively/wiki</value>
-        <comment/>
+        <value>Uppspelning av media misslyckades. Försök att ändra videospelaren i Lively inställningar. För att bättre förstå felet och åtgärda problemet kan du dela loggfilen med utvecklaren.Instruktioner för att dela loggfilen: https://github.com/rocksdanister/lively/wiki</value>
     </data>
     <data name="LivelyExceptionNotLivelyZip" xml:space="preserve">
-        <value>Inte en Livley tapet fil.</value>
-        <comment/>
+        <value>Denna fil är inte en Lively fil.</value>
     </data>
     <data name="LivelyExceptionSafeModeStart" xml:space="preserve">
-        <value>Lively was not closed properly, starting in safe mode.Do you wish to restore previously running wallpapers?</value>
-        <comment/>
+        <value>Lively stängdes inte ordentligt och startade i felsäkert läge. Vill du återställa tidigare körda bakgrundsbilder?</value>
     </data>
     <data name="LivelyExceptionWorkerWSetupFail" xml:space="preserve">
-        <value>It looks like some settings needs to be set to make Lively work:-  1. Open This PC(My Computer)2. Right-click empty area3. Select Properties4. Select Advanced System Settings5. Under Performance tab select Settings6. Enable Animate controls and elements inside windows and Apply.If Windows 7 just set - Adjust for best appearance &amp; Apply.If still not working, close &amp; start Lively again/ restart windows.(Does not work in some insider windows 10 builds)</value>
-        <comment/>
+        <value>Det ser ut som om några inställningar måste göras för att Lively ska fungera: 1. Öppna den här datorn (Min dator) 2. Högerklicka på ett tomt område 3. Välj Egenskaper 4. Välj Avancerade systeminställningar 5. Under fliken Prestanda välj Inställningar 6. Aktivera Animera kontroller och element i fönster och tillämpa. Om Windows 7 ställ bara in - Justera för bästa utseende och tillämpa. Om det fortfarande inte fungerar, stäng och starta Lively igen / starta om Windows. (Fungerar inte i vissa Insider Windows 10-versioner)</value>
     </data>
     <data name="TextAdd" xml:space="preserve">
         <value>Lägg till</value>
         <comment/>
     </data>
     <data name="TextApplication" xml:space="preserve">
-        <value>Application</value>
-        <comment/>
+        <value>Applikation</value>
     </data>
     <data name="TextAttribution" xml:space="preserve">
         <value>Attribution</value>
@@ -249,7 +242,6 @@
     </data>
     <data name="TextDeleteWallpaper" xml:space="preserve">
         <value>Ta bort bakgrundsbild</value>
-        <comment>w</comment>
     </data>
     <data name="TextDisplayPauseRuleAllScreen" xml:space="preserve">
         <value>Alla skärmar</value>
@@ -272,7 +264,7 @@
         <comment/>
     </data>
     <data name="TextExportWallpaperZip" xml:space="preserve">
-        <value>Exportera lively .zip</value>
+        <value>Exportera lively.zip</value>
     </data>
     <data name="TextGIF" xml:space="preserve">
         <value>Animerad GIF</value>
@@ -611,8 +603,7 @@
         <comment/>
     </data>
     <data name="TitleDocumentation" xml:space="preserve">
-        <value>Documentation</value>
-        <comment/>
+        <value>Dokumentation</value>
     </data>
     <data name="TitleEnterUrl" xml:space="preserve">
         <value>Enter URL</value>
@@ -943,8 +934,7 @@
         <value>Läs mer</value>
     </data>
     <data name="DescOledScreensaverNotice" xml:space="preserve">
-        <value>Most modern LCD and LED displays do not suffer from burn-in issue and therefore any wallpaper can be used as screensaver.For OLED, Plasma or CRT displays which are susceptibe to burn-in it is advised to use wallpaper with regular motion and an overall dark theme which is supposed to mitigate burn-in but this feature is untested and its effectiveness cannot be guaranteed.The main purpose of Lively's screensavers is to add another layer of customization to your pc, use screensavers as burn-in protection at your own risk!</value>
-        <comment/>
+        <value>De flesta moderna LCD- och LED-skärmar lider inte av problemet med inbränning och därför kan alla bakgrunder användas som skärmsläckare. För OLED-, plasma- eller CRT-skärmar som är känsliga för inbränning rekommenderas det att använda bakgrunder med regelbundna rörelser och ett övergripande mörkt tema som antas minska inbränningen, men den här funktionen är oprövad och dess effektivitet kan inte garanteras. Huvudsyftet med Livelys skärmsläckare är att lägga till ytterligare ett lager av anpassning till din dator, använd skärmsläckare som skydd mot inbränning på egen risk!</value>
     </data>
     <data name="TextChangeWallpaper" xml:space="preserve">
         <value>Byt bakgrundsbild</value>
